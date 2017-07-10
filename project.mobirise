@@ -1,32 +1,20 @@
 {
   "settings": {
-    "currentPage": "nyambek21",
-    "name": "My Site",
+    "name": "NewSite-07-09_1719",
+    "currentPage": "cok",
     "theme": {
-      "name": "mobirise3",
-      "title": "Mobirise 3",
-      "styling": {
-        "primaryColor": "#c0a375",
-        "secondaryColor": "#bfcecb",
-        "successColor": "#90a878",
-        "infoColor": "#7e9b9f",
-        "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
-        "titleFont": "Montserrat",
-        "subtitleFont": "Lora",
-        "textFont": "Raleway",
-        "isRoundedButtons": false,
-        "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
-        "isRtl": false
-      }
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 3,
-    "versionPublish": "3.12.1"
+    "uniqCompNum": 11,
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/03-128x192.png",
+    "noImageResize": ""
   },
   "pages": {
-    "kuro21": {
+    "jhfghv": {
       "settings": {
         "main": true,
         "title": "",
@@ -37,89 +25,74 @@
       },
       "components": [
         {
+          "_inherit": "header1",
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-1",
           "_params": {
-            "parallax": false,
+            "parallax": true,
             "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/208-2000x1166.jpg",
-            "bgColor": "#a07e49",
+            "bgImage": "@PROJECT_PATH@/assets/images/332-2000x1284.jpg",
+            "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#000",
             "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": true,
+            "showArrow": false
           },
-          "title": "Ebony Sexy Room Girl",
-          "text": "FREE JOIN ONLY BY EMAIL",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://deanna.dating-with-Facywat.top/XXVGjunieUXQZ.php\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\"></span>JOIN FREE</a> ",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "30px"
-            },
-            ".mbr-section-lead": {
-              "font-size": "20px"
-            }
-          }
+          "title": "ITHIL KANGKUNGS",
+          "text": "FREE SIGNUP",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"http://georgine.dating-with-Quinlivan.top/ZDPLpamREBA.php\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\"></span>GET STARTED</a> "
         }
       ]
     },
-    "nyambek21": {
+    "cok": {
       "settings": {
-        "title": "",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
+        "title": "Web Maker Title",
+        "meta_descr": "Web Maker Description"
       },
       "components": [
         {
+          "_inherit": "header1",
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "30px"
-            },
-            ".mbr-section-lead": {
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "header1-2",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-a",
           "_params": {
-            "parallax": false,
+            "parallax": true,
             "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/208-2000x1166.jpg",
-            "bgColor": "#a07e49",
+            "bgImage": "images/bg.jpg",
+            "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#000",
             "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": true,
+            "showArrow": false
           },
-          "title": "Ebony Sexy Room Girl",
-          "text": "FREE JOIN ONLY BY EMAIL",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://deanna.dating-with-Facywat.top/XXVGjunieUXQZ.php\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\"></span>JOIN FREE</a> "
+          "title": "MOBIRISE WEBSITE BUILDER",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>"
         }
       ]
     }
