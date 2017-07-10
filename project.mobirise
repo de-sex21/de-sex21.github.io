@@ -1,20 +1,18 @@
 {
   "settings": {
-    "name": "NewSite-07-09_1719",
-    "currentPage": "cok",
+    "name": "NewSite-07-10_0903",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 11,
-    "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/03-128x192.png",
-    "noImageResize": ""
+    "uniqCompNum": 1,
+    "versionPublish": "3.12.1"
   },
   "pages": {
-    "jhfghv": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "",
@@ -31,46 +29,7 @@
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
-          "_anchor": "header4-1",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/332-2000x1284.jpg",
-            "bgColor": "#4c6972",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "contentAlign": "center",
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": false
-          },
-          "title": "ITHIL KANGKUNGS",
-          "text": "FREE SIGNUP",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"http://georgine.dating-with-Quinlivan.top/ZDPLpamREBA.php\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\"></span>GET STARTED</a> "
-        }
-      ]
-    },
-    "cok": {
-      "settings": {
-        "title": "Web Maker Title",
-        "meta_descr": "Web Maker Description"
-      },
-      "components": [
-        {
-          "_inherit": "header1",
-          "_tags": [
-            "Theme"
-          ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
-          "_anchor": "header4-a",
+          "_anchor": "header4-0",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
